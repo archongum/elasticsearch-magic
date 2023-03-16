@@ -1,5 +1,9 @@
 # elasticsearch-magic
 
+## Download
+
+[Releases](https://github.com/archongum/elasticsearch-magic/releases)
+
 ## Build
 
 The use of a remote development platform such as Codespaces, Gitpod, etc. is RECOMMENDED.
